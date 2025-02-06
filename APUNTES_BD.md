@@ -25,4 +25,10 @@ CASSANDRA
 ### jmllanosm@corhuila.edu.co
 
 ### Lunes Miercoles de 11 a 12 M  B209
+---
+## Comandos Github 
+
+    git add .
+    git commit -m "commit"
+    git push
 
