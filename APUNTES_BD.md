@@ -11,12 +11,12 @@ CASSANDRA
 
 ## PONDERACION
 
-### Parcial 70%
+### >Parcial 70%
 
             
-* TALLERES - QUIZ----->25%
+* >TALLERES - QUIZ----->25%
 
-* AUTO COE ------> 5%
+* >AUTO COE ------> 5%
 
 
 ### PLATAFORMA DE ENTREGA ES MOODLE
@@ -25,3 +25,4 @@ CASSANDRA
 ### jmllanosm@corhuila.edu.co
 
 ### Lunes Miercoles de 11 a 12 M  B209
+
